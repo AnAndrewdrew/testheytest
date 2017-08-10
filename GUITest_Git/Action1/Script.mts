@@ -1,5 +1,1 @@
-﻿print "a"
-print "aaaa"
-asdasd 
-
-New "asdasda"
+﻿print "git" ' within UFT
